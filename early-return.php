@@ -11,5 +11,19 @@ function check_output($a){
   }else{
     //do else
   }
+}
+//****************** Refactoring ***************************
 
-
+function check_output($a){
+  if($a < 10){
+    //do else
+    return;
+  }
+  //do something
+  //do something
+  //do something
+  //do something
+  //do something
+  //do something
+  //do something
+}
