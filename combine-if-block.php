@@ -4,3 +4,7 @@ if(a>b){
   //do something
   }
 }
+//****************** Refactoring ***************************
+if(a>b and a != 10){
+  //do something
+}
